@@ -34,7 +34,7 @@
             android:layout_marginStart="@dimen/margin_short"
             android:layout_marginEnd="@dimen/margin_short"
             android:layout_marginTop="@dimen/margin_short"
-            android:textColor="@color/textColorTitle"
+            android:textColor="@color/colorTextTitle"
             android:textSize="@dimen/card_title_text_size"
             tools:text="placeholder text" />
 
