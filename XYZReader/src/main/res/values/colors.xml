@@ -2,8 +2,9 @@
     <color name="photo_placeholder">#ccc</color>
 
     <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#04561A</color>
+    <color name="theme_primary_dark">#033D13</color>
+    <color name="theme_accent">#570407</color>
+    <color name="theme_primary_light">#18A33D</color>
 
     <color name="colorTextTitle">#000</color>
     <color name="ltgray">#ffe0e0e0</color>
